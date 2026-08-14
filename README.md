@@ -22,6 +22,15 @@ This project analyzes telecom customer data to:
 **Python → Data Cleaning & EDA → PostgreSQL → SQL Analysis → Power BI → Business Insights**
 
 ---
+## 🧭 Project Navigation
+
+| Section | Description |
+|---|---|
+| 🐍 [Python EDA](notebooks/Telecom_Customer_Churn_EDA.ipynb) | Data cleaning, EDA and visualization |
+| 🧮 [SQL Analysis](sql/) | PostgreSQL business analysis |
+| 📊 [Power BI Screenshots](screenshots/) | 8-page interactive dashboard |
+| 💡 [Business Insights](#-key-business-insights) | Major findings |
+| 🎯 [Recommendations](#-business-recommendations) | Retention strategies |
 
 ## 🎯 Business Problem
 
@@ -392,45 +401,67 @@ Retention Recommendations
 ```text
 Telecom-Customer-Churn-Analytics/
 │
-├── data/
-│   ├── raw/
-│   └── cleaned/
+├── README.md
 │
-├── python/
-│   ├── data_generation/
-│   ├── data_cleaning/
-│   └── EDA/
+├── notebooks/
+│   ├── README.md
+│   └── Telecom_Customer_Churn_EDA.ipynb
 │
 ├── sql/
-│   ├── schema/
-│   ├── data_quality/
-│   └── business_queries/
+│   ├── README.md
+│   ├── 01_customer_overview.sql
+│   ├── 02_churn_analysis.sql
+│   ├── 03_revenue_analysis.sql
+│   ├── 04_service_analysis.sql
+│   └── 05_retention_analysis.sql
 │
-├── powerbi/
-│   └── Telecom_Customer_Churn_Analytics.pbix
-│
-├── screenshots/
-│   ├── executive_overview.png
-│   ├── customer_demographics.png
-│   ├── revenue_deep_dive.png
-│   ├── service_subscription.png
-│   ├── geographic_analysis.png
-│   ├── churn_retention.png
-│   ├── payment_billing.png
-│   └── retention_strategy.png
-│
-├── docs/
-│   ├── BRD.md
-│   ├── data_dictionary.md
-│   └── data_quality_report.md
-│
-└── README.md
+└── screenshots/
+    ├── executive_overview.png
+    ├── customer_demographics.png
+    ├── revenue_deep_dive.png
+    ├── service_subscription.png
+    ├── geographic_analysis.png
+    ├── churn_retention.png
+    ├── payment_billing.png
+    └── retention_strategy.png
 ```
 
 > Keep this project structure section synchronized with the actual files and folders in the repository.
 
 ---
 
+---
+
+# 2. Add Project Resources
+
+Immediately **after** the Project Structure section, add:
+
+```markdown
+## 🔗 Project Resources
+
+### 🐍 Python / EDA
+
+[📓 Open Python EDA Notebook](notebooks/Telecom_Customer_Churn_EDA.ipynb)
+
+The notebook contains data cleaning, exploratory data analysis, statistical summaries, visualizations, and business insights.
+
+### 🧮 SQL Analysis
+
+[📂 View SQL Analysis](sql/)
+
+The SQL folder contains PostgreSQL queries for:
+
+- Customer overview
+- Churn analysis
+- Revenue analysis
+- Service & subscription analysis
+- Retention analysis
+
+### 📊 Power BI Dashboard
+
+[🖼️ View Dashboard Screenshots](screenshots/)
+
+The screenshots folder contains all 8 Power BI dashboard pages.
 ## 🚀 Future Improvements
 
 Potential future enhancements include:
