@@ -296,6 +296,36 @@ Churn patterns vary across payment methods, creating opportunities for targeted 
 Month-to-month customers with higher charges and elevated churn risk represent an important segment for targeted retention campaigns.
 
 ---
+## 💡 Key Business Insights
+
+The analysis identified several important customer churn patterns:
+
+### 1. Contract Type
+- Month-to-month customers represent a key churn-risk segment.
+- Customers on longer-term contracts demonstrate stronger retention.
+- Contract structure is therefore an important retention lever.
+
+### 2. Customer Tenure
+- Customers with shorter tenure require greater retention attention.
+- Early-stage customers represent an important opportunity for proactive engagement.
+- Retention programs should focus on the first months of the customer lifecycle.
+
+### 3. Revenue & Churn
+- Churn among higher-value customers creates greater revenue exposure.
+- Revenue-at-risk analysis helps prioritize customers for retention campaigns.
+- Customer value should be considered alongside churn probability.
+
+### 4. Services & Subscription
+- Customer churn varies across internet services and additional service subscriptions.
+- Support-oriented services can be evaluated as potential retention opportunities.
+- Service bundling can be considered for high-risk customer segments.
+
+### 5. Payment & Billing
+- Churn patterns differ across payment methods.
+- Billing experience and payment preferences should be considered when designing retention strategies.
+
+### 6. Customer Segmentation
+- Combining contract type, tenure, monthly charges, and services provides a stronger view of customer risk than analyzing a single variable.
 
 ## 🎯 Business Recommendations
 
