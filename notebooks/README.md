@@ -1,31 +1,34 @@
-# 🐍 Python / EDA
+# Python EDA & Analysis
 
-This folder contains the Python-based exploratory data analysis (EDA) performed for the Telecom Customer Churn Analytics project.
+This folder contains the Python Jupyter Notebook used for data cleaning, exploratory data analysis (EDA), and customer churn analysis.
 
-## 📓 Notebook
+## Notebook
 
-### Telecom Customer Churn EDA
+- [Telecom Customer Churn EDA](./Telecom_Customer_Churn_EDA.ipynb)
 
-The notebook covers:
+## Analysis Covered
+
+The notebook includes:
 
 - Data loading and inspection
 - Data quality assessment
 - Missing value analysis
-- Duplicate record validation
+- Duplicate record analysis
 - Data type validation
-- Data cleaning and preprocessing
-- Descriptive statistics
-- Univariate analysis
-- Bivariate analysis
+- Data cleaning and transformation
 - Customer demographic analysis
 - Churn analysis
 - Revenue analysis
 - Service and subscription analysis
+- Contract analysis
+- Payment method analysis
+- Customer tenure analysis
 - Geographic analysis
-- Correlation analysis
-- Business insights and findings
+- Churn drivers
+- Retention opportunities
+- Business insights and recommendations
 
-## 🛠️ Technologies
+## Tools & Libraries
 
 - Python
 - Pandas
@@ -34,6 +37,6 @@ The notebook covers:
 - Seaborn
 - Jupyter Notebook
 
-## 🎯 Objective
+## Purpose
 
-The objective of the analysis is to identify customer churn patterns, understand the factors associated with customer attrition, and generate insights that can support customer retention strategies.
+The analysis was performed to identify customer churn patterns, understand key churn drivers, evaluate revenue exposure, and identify customer segments that may require retention strategies.
